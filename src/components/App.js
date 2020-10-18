@@ -3,14 +3,7 @@ import "../styles/App.css";
 
 class App extends Component {
   render() {
-    const cities = [
-      "Goa",
-      "Darjeeling",
-      "Lonavala",
-      "Amsterdam",
-      "New York",
-      "Tokyo"
-    ];
+    const cities = ["Goa", "Darjeeling", "Lonavala"];
 
     return (
       <>
